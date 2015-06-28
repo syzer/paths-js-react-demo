@@ -1,7 +1,8 @@
 Paths.js Demo application
 =========================
 
-This is an application to demonstrate the use of [Paths.js](https://github.com/andreaferretti/paths-js) with [Facebook React](http://facebook.github.io/react/) to create interactive SVG graphics.
+This is an application to demonstrate the use of [Paths.js](https://github.com/andreaferretti/paths-js) 
+with [Facebook React](http://facebook.github.io/react/) to create interactive SVG graphics.
 
 Running
 -------
@@ -22,4 +23,5 @@ Otherwise a self-contained distribution can be obtained with
 Status
 ------
 
-The demo is still incomplete, and fails to show many of Paths.js features. A more complete demo can be found [here](https://github.com/andreaferretti/paths-js-demo).
+The demo is still incomplete, and fails to show many of Paths.js features. 
+A more complete demo can be found [here](https://github.com/andreaferretti/paths-js-demo).
