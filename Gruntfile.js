@@ -1,16 +1,16 @@
-module.exports = function(grunt) {
-  return require('load-grunt-config')(grunt, {
-    config: {
-      bower: 'bower_components',
-      src: 'js',
-      css: 'css',
-      fonts: 'fonts',
-      jsondata: 'data',
-      dist: 'dist',
-      tmp: '.tmp',
-      port: 9000,
-      livereload: 35729
-    },
-    init: true
-  });
+module.exports = function (grunt) {
+    return require('load-grunt-config')(grunt, {
+        config: {
+            bower: 'bower_components',
+            src: 'js',
+            css: 'css',
+            fonts: 'fonts',
+            jsondata: 'data',
+            dist: 'dist',
+            tmp: '.tmp',
+            port: 9000,
+            livereload: 35729
+        },
+        init: true
+    });
 };
